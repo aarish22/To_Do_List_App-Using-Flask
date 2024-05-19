@@ -17,7 +17,7 @@ This is a simple To-Do List application built using the Flask web framework. The
 - **SQLAlchemy (2.0.29)**: An SQL toolkit and Object-Relational Mapping (ORM) library for Python.
 - **Jinja2 (3.1.3)**: A templating engine for Python used with Flask.
 - **Werkzeug (3.0.2)**: A WSGI utility library for Python.
-- **Other utilities**: `click`, `colorama`, `greenlet`, `itsdangerous`, `MarkupSafe`, `six`, `typing_extensions`.
+
 
 ## Installation
 
